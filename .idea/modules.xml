@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterviewTasksScala.iml" filepath="$PROJECT_DIR$/.idea/modules/InterviewTasksScala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterviewTasksScala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/InterviewTasksScala-build.iml" />
+    </modules>
+  </component>
+</project>
